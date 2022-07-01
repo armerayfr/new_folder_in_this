@@ -1,0 +1,33 @@
+user account management
+
+useradd [name_user]
+
+verify with 
+
+id [name_user]
+
+groupadd [name_group]
+
+verify with 
+
+cat /etc/group
+
+userdel [name_user]
+
+verify with 
+
+id [name_user]
+
+groupdel [name_group]
+
+verify with 
+
+cat /etc/group
+
+usermod [options] 
+
+to add user to group
+
+usermod -G united eric 
+
+modify for add eric to group united

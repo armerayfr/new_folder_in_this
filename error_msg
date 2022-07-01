@@ -1,0 +1,2 @@
+telnet: Unable to connect to remote host: Connection refused
+ls: cannot open directory '/root': Permission denied

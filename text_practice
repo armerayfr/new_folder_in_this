@@ -1,0 +1,23 @@
+Baru latihan append text to file nih
+Sab 04 Jun 2022 08:17:15  WIB
+total 152696
+-rw-r--r-- 1 root root 67612168 Des  8 15:18 GitHubDesktop-linux-2.6.3-linux1.deb
+-rw-rw-r-- 1 user user 88685600 Mei 10 07:12 google-chrome-stable_current_amd64.deb
+drwxr-xr-x 2 user user     4096 Mei 18 23:07 Videos
+drwxr-xr-x 2 user user     4096 Mei 18 23:07 Templates
+drwxr-xr-x 2 user user     4096 Mei 18 23:07 Public
+drwxr-xr-x 2 user user     4096 Mei 18 23:07 Music
+drwxrwxr-x 8 user user     4096 Mei 23 20:00 pycharm
+drwxrwxr-x 3 user user     4096 Mei 23 20:16 Demo
+drwxrwxr-x 3 user user     4096 Mei 23 21:20 PycharmProjects
+drwx------ 5 user user     4096 Mei 25 13:09 snap
+drwxr-xr-x 3 user user     4096 Mei 29 13:28 Pictures
+-rw-rw-r-- 1 user user        0 Mei 29 14:26 test.zip
+-rw-rw-r-- 1 user user        0 Mei 29 14:29 new_test.zip
+drwxrwxr-x 2 user user     4096 Mei 31 23:51 users-info
+-rw----r-- 1 user user        0 Jun  2 21:50 armer
+drwxr-xr-x 2 user user     4096 Jun  4 10:37 Desktop
+drwxr-xr-x 5 user user     4096 Jun  4 11:04 Downloads
+drwxr-xr-x 2 user user     4096 Jun  4 11:04 Documents
+-rw-rw-r-- 1 user user       54 Jun  4 20:06 fr
+-rw-rw-r-- 1 user user       67 Jun  4 20:17 text_practice
